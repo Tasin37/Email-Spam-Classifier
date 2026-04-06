@@ -143,7 +143,7 @@ This project is open-source and free to use.
 ## 👨‍💻 Author
 
 **Your Name**
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Tasin37
 
 ---
 
