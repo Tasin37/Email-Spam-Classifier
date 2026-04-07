@@ -8,7 +8,7 @@ Built with **Streamlit**, **Scikit-learn**, and **NLTK**.
 
 ## 🚀 Live Demo
 
-*([Add your Streamlit app link here after deployment](https://email-spam-classifier-tasin37.streamlit.app/))*
+*([Demo](https://email-spam-classifier-tasin37.streamlit.app/))*
 
 ---
 
