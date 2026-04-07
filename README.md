@@ -123,8 +123,7 @@ Steps:
 
 ## 📸 Screenshot
 
-*(Add screenshot of your app here)*
-
+![App Screenshot](app.png)
 ---
 
 ## 🙌 Acknowledgements
