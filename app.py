@@ -8,11 +8,11 @@ from nltk.stem.porter import PorterStemmer
 # Download required NLTK data (only if not already available in environment)
 try:
     nltk.data.find('tokenizers/punkt')
-except nltk.downloader.DownloadError:
+except nltk.DownloadError: # Corrected from nltk.downloader.DownloadError
     nltk.download('punkt')
 try:
     nltk.data.find('corpora/stopwords')
-except nltk.downloader.DownloadError:
+except nltk.DownloadError: # Corrected from nltk.downloader.DownloadError
     nltk.download('stopwords')
 
 ps = PorterStemmer()
